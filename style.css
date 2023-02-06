@@ -79,7 +79,7 @@ a .card {
 
 
 body {
-    background: #2D2E35 url('/img.jpg') repeat-x center bottom / 250px;
+    background: #2D2E35 url('img.jpg') repeat-x center bottom / 250px;
     background-attachment: fixed;
     overflow-x: hidden;
     color: var(--text-color);
